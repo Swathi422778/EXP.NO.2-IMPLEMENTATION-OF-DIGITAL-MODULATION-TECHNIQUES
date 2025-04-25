@@ -69,7 +69,10 @@ View the demodulated output waveform and compare it with the original input data
 
 
 ## OUTPUT GRAPHS
+
+![ASK](https://github.com/user-attachments/assets/b20dc98f-b4ed-4aab-9fa5-7cd3ebad1553)
 ![FSK](https://github.com/user-attachments/assets/e6b91067-b1fb-44ba-8786-c8c115e52c59)
+![PSK](https://github.com/user-attachments/assets/11c5008c-26f0-4a6e-9f16-6921b889c364)
 
 
 ## RESULT 
